@@ -1,0 +1,10 @@
+{
+  "description": "Simplify task management by allowing users to easily create, organize, and track their to-do lists for improved productivity and focus.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
