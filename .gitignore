@@ -24,3 +24,6 @@ logs/
 .env
 server/.env
 server/ca.pem
+
+.env
+node_modules/
